@@ -1,0 +1,21 @@
+{
+  "name": "angular-1.x-multiple-modules-app",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-flatten": "^0.3.1",
+    "gulp-inject": "^4.2.0",
+    "gulp-util": "^3.0.8",
+    "stream-series": "^0.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
